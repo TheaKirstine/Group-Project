@@ -20,7 +20,7 @@ body {
   margin-bottom: 40px;
   background: blue;
 }
-img{
+.header{
   display: block;
   padding: 20px;
   margin: 0 auto;
