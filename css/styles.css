@@ -1,0 +1,22 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.navbar{
+  background: rgb(249,148,140);
+}
+.centreme{
+  text-align: center;
+}
+.pushup-4{
+  background: red;
+  /* margin-top: 40px; */
+  padding-top: 30px;
+}
+.pushdown-4{
+  margin-bottom: 40px;
+  background: blue;
+}
