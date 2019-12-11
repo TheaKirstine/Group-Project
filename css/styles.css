@@ -30,3 +30,6 @@ body {
 .h3{
   transition: 0.6s ease;
 }
+.shops{
+  color: rgb(204, 153, 255);
+}
